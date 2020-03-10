@@ -95,3 +95,41 @@ a:hover {
 .articlesbg {
     background-color: #f5f5f5;
 }
+
+.article-title h3 {
+    font-size: 2.6em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #3c1f68;
+
+}
+
+h4 {
+    font-size: 1.6em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.date {
+    letter-spacing: 2px;
+    font-size: 0.8em;
+}
+
+.readmore {
+    color: #a19ba6;
+    font-size: 0.9em;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-image: url(images/footer-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    background-position: center center;
+}
+
+.footer-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
