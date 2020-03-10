@@ -47,13 +47,13 @@ a:hover {
     color: #ffff;
     width: 341px;
     font-size: 6em;
-    letter-spacing: -10px;
+    letter-spacing: -7px;
     font-weight: 800;
     line-height: 75%;
     margin-top: 140px;
     text-align: right;
     padding-bottom: 10%;
-
+    margin-right: 40px;
 }
 
 .aboutbg {
