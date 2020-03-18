@@ -18,7 +18,8 @@ endwhile;
 endif;
 wp_reset_query();?>
 
-
+<div class="blocker"></div>
+        
     </div><!--        CONTAINER-->
 
 </section>
