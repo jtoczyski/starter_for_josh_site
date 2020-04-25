@@ -33,7 +33,7 @@
 </head>
 
 <body>
-    <header class="container-fluid small_herobg">
+    <header class="container-fluid herobg">
         <nav class="navbar">
             <div class="container-fluid">
                 <div class="navbar-header">
