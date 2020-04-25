@@ -50,7 +50,7 @@ a:hover {
     background-size: cover;
 }
 .small_herobg {
-    background: url("images/small_header_bg.jpg");
+    background: url(images/small_header_bg.jpg);
     background-size: cover;
     height: 40vh;
     }
