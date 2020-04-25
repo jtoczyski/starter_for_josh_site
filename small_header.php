@@ -34,7 +34,6 @@
 
 <body>
     <header class="container-fluid small_herobg">
-        <img src="images/small_header_bg.jpg">
         <nav class="navbar">
             <div class="container-fluid">
                 <div class="navbar-header">
