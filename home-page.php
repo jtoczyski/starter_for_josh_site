@@ -26,7 +26,7 @@
         </div><!--        row-->
 
         <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage1'); ?>">
             <h4><?php the_field('articletitle1'); ?></h4>
             <p><?php the_field('articleexcerpt1'); ?> </p>
             <a href="<?php the_field('readmore1'); ?>" class="readmore">CONTINUE READING</a>
@@ -34,14 +34,14 @@
         </div>
 
         <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“model” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“model” src="<?php the_field('articleimage2'); ?>">
             <h4><?php the_field('articletitle2'); ?></h4>
             <p><?php the_field('articleexcerpt2'); ?> </p>
             <a href="<?php the_field('readmore2'); ?>" class="readmore">CONTINUE READING</a>
         </div>
 
         <div class="col-md-4 article-cent">
-            <img class="img-responsive" alt=“gamesdesign” src="<?php the_field('articleimage'); ?>">
+            <img class="img-responsive" alt=“gamesdesign” src="<?php the_field('articleimage3'); ?>">
             <h4><?php the_field('articletitle3'); ?></h4>
             <p><?php the_field('articleexcerpt3'); ?> </p>
             <a href="<?php the_field('readmore3'); ?>" class="readmore">CONTINUE READING</a>
