@@ -45,15 +45,14 @@ a:hover {
     background-color: white;
 }
 
+.small_herobg {
+    background: url(images/small_header_bg.jpg);
+    background-size: cover;
+}
 .herobg {
     background: url(images/header-bg.jpg);
     background-size: cover;
 }
-.small_herobg {
-    background: url(images/small_header_bg.jpg);
-    background-size: cover;
-    height: 40vh;
-    }
 
 .herobg h1 {
     font-family: 'Raleway', sans-serif;
