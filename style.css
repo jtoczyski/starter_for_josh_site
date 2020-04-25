@@ -49,6 +49,9 @@ a:hover {
     background: url(images/header-bg.jpg);
     background-size: cover;
 }
+.small_herobg {
+    background: url("images/small_header_bg.jpg");
+    }
 
 .herobg h1 {
     font-family: 'Raleway', sans-serif;
@@ -64,11 +67,6 @@ a:hover {
     padding-bottom: 10%;
     margin-right: 40px;
 }
-
-.small_herobg {
-    background: url("images/small_header_bg.jpg");
-    }
-
 
 .aboutbg {
     background-color: #d9dade;
