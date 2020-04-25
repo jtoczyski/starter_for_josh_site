@@ -59,8 +59,4 @@
             </div>
         </nav>
 
-
-        <div class="container">
-        <h1>Games Design for the future</h1>
-            </div>
     </header>
