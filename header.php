@@ -61,6 +61,6 @@
 
 
         <div class="container">
-            <h1><?php the_field('maintagline'); ?></h1>
+            <h1>Graphic Design</h1>
         </div>
     </header>
